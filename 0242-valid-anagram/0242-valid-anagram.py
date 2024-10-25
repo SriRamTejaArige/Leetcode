@@ -6,7 +6,9 @@ class Solution:
         b.sort()
         # print(a)
         # print(b)
-        if(a==b):
-            return True
-        else:
-            return False
+        # if(a==b):
+        #     return True
+        # else:
+        #     return False
+        
+        return a==b
